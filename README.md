@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello. My name is Vitaliy. I am 30 years old. Now I am studying to be a programmer and I want to work remotely in the future. 👋
 
 <!--
 **basaka92/basaka92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
